@@ -1,0 +1,24 @@
+{
+  "name": "picotado-bot",
+  "version": "1.0.0",
+  "description": "Bot para discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingZabitus/Picotado-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingZabitus/Picotado-bot/issues"
+  },
+  "homepage": "https://github.com/KingZabitus/Picotado-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
